@@ -1,0 +1,3 @@
+/* Estilos del panel de administrador */
+.modal-content.bg-dark{background-color:#0d0718!important;border:1px solid var(--line)}
+#adminModal .table{--bs-table-bg:transparent}
